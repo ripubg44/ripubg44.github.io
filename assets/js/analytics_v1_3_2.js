@@ -20,7 +20,7 @@ $(window).on("load", function() {
         if ($(location).attr('href').indexOf(".games235.com")> -1) {        
             loadGoogleAnalytics("G-4EMF7BG2HD");
         } else {
-            loadGoogleAnalytics("G-E7D3EVY6HR");
+            loadGoogleAnalytics("G-KFFPC3CBG0");
         }
         console.log('Human Browser');
     }    
